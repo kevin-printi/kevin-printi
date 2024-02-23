@@ -25,6 +25,7 @@ Aqui estão alguns dos projetos em destaque nos quais tenho trabalhado recenteme
 ## Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kevin-printi&show_icons=true&theme=radical)](https://github.com/kevin-printi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-printi&layout=compact)](https://github.com/kevin-printi)
 
 ## Vamos Conectar!
 
